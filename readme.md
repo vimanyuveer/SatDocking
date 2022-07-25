@@ -1,6 +1,7 @@
 # SatDocking README
 
 
+A small project made to perform best fit analysis and get the equation of an ellipse from pixel data formatted as 0 (sensor not detected) or 1 (sensor detected). The pixel data is of an image of a satellite with 7 sensors arranged in a circle (non-uniformly), while the satellite is rotating and has a certain unknown linear velocity.
 
 
 References:
